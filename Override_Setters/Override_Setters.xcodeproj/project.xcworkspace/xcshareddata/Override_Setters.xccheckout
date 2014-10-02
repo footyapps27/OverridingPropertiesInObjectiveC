@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>429EC086-6B2E-4B1D-A28F-E4B44CF181CF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Override_Setters</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B69A2CDD-4F37-48B1-A958-DA40B73B0668</key>
+		<string>https://github.com/footyapps27/OverridingPropertiesInObjectiveC.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Override_Setters/Override_Setters.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B69A2CDD-4F37-48B1-A958-DA40B73B0668</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/footyapps27/OverridingPropertiesInObjectiveC.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B69A2CDD-4F37-48B1-A958-DA40B73B0668</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B69A2CDD-4F37-48B1-A958-DA40B73B0668</string>
+			<key>IDESourceControlWCCName</key>
+			<string>OverridingPropertiesInObjectiveC</string>
+		</dict>
+	</array>
+</dict>
+</plist>
